@@ -14,6 +14,7 @@
                  [clj-http "3.10.1"]
                  [org.clojure/data.json "1.0.0"]
                  [org.osgeo/proj4j "0.1.0"]
+                 
                  [ifc-tools-clj/ifc-tools-clj "0.1.0-SNAPSHOT"]]
   :plugins [[s3-wagon-private "1.3.4"]]
   :repositories [["shtanglitza" {:url "s3p://shtanglitza/clojure"
