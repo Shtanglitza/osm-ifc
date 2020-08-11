@@ -1,0 +1,4310 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.1004 6cd3eaec",
+  "osm3s": {
+    "timestamp_osm_base": "2020-07-13T10:37:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 418404990,
+  "lat": 44.8055428,
+  "lon": 20.4750322,
+  "timestamp": "2019-03-28T16:00:50Z",
+  "version": 8,
+  "changeset": 68631102,
+  "user": "AnonJason",
+  "uid": 9151615,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing_ref": "zebra",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 702297257,
+  "lat": 44.8051100,
+  "lon": 20.4763683,
+  "timestamp": "2019-08-23T11:45:42Z",
+  "version": 11,
+  "changeset": 73662614,
+  "user": "mpele",
+  "uid": 93026,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Технички факултети",
+    "name:en": "Tehnicki fakulteti",
+    "name:sr": "Технички факултети",
+    "name:sr-Latn": "Tehnički fakulteti",
+    "ref": "585",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3955759994,
+  "lat": 44.8056437,
+  "lon": 20.4751160,
+  "timestamp": "2019-03-28T16:00:50Z",
+  "version": 4,
+  "changeset": 68631102,
+  "user": "AnonJason",
+  "uid": 9151615,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing_ref": "zebra",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 4676720724,
+  "lat": 44.8052332,
+  "lon": 20.4755895,
+  "timestamp": "2019-09-13T23:52:15Z",
+  "version": 6,
+  "changeset": 74457549,
+  "user": "TXBG",
+  "uid": 5569366,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Технички факултети",
+    "name:en": "Tehnicki fakulteti",
+    "name:sr": "Технички факултети",
+    "name:sr-Latn": "Tehnički fakulteti",
+    "public_transport": "platform",
+    "ref": "584"
+  }
+},
+{
+  "type": "node",
+  "id": 6324239181,
+  "lat": 44.8055434,
+  "lon": 20.4748429,
+  "timestamp": "2019-06-18T19:41:09Z",
+  "version": 2,
+  "changeset": 71378446,
+  "user": "Goatosm",
+  "uid": 8578206,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing_ref": "zebra",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 6338432264,
+  "lat": 44.8051348,
+  "lon": 20.4758086,
+  "timestamp": "2019-03-14T19:48:44Z",
+  "version": 1,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590,
+  "tags": {
+    "crossing": "uncontrolled",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 6338432265,
+  "lat": 44.8049854,
+  "lon": 20.4761917,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 2,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588,
+  "tags": {
+    "crossing": "uncontrolled",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 6338432267,
+  "lat": 44.8056781,
+  "lon": 20.4748022,
+  "timestamp": "2019-03-14T19:48:44Z",
+  "version": 1,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 6338432268,
+  "lat": 44.8056505,
+  "lon": 20.4747716,
+  "timestamp": "2019-03-14T19:48:44Z",
+  "version": 1,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 6338432269,
+  "lat": 44.8056041,
+  "lon": 20.4750846,
+  "timestamp": "2019-03-14T19:48:44Z",
+  "version": 1,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "way",
+  "id": 23078901,
+  "timestamp": "2020-03-30T21:02:31Z",
+  "version": 10,
+  "changeset": 82843541,
+  "user": "dingerdonger",
+  "uid": 9054148,
+  "nodes": [
+    5659133983,
+    6324239178,
+    6324239177,
+    249104671,
+    249104670,
+    3950775927
+  ],
+  "tags": {
+    "highway": "residential",
+    "lit": "yes",
+    "name": "Кумановска",
+    "name:en": "Kumanovska",
+    "name:etymology:wikidata": "Q54452",
+    "name:sr": "Кумановска",
+    "name:sr-Latn": "Kumanovska",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23078917,
+  "timestamp": "2020-03-30T21:02:31Z",
+  "version": 8,
+  "changeset": 82843541,
+  "user": "dingerdonger",
+  "uid": 9054148,
+  "nodes": [
+    249104773,
+    2934185500,
+    6338432264,
+    249104774,
+    5659133982
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Патријарха Гаврила",
+    "name:etymology:wikidata": "Q878894",
+    "name:sr": "Патријарха Гаврила",
+    "name:sr-Latn": "Patrijarha Gavrila",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23078937,
+  "timestamp": "2020-03-09T15:49:49Z",
+  "version": 11,
+  "changeset": 81971424,
+  "user": "dingerdonger",
+  "uid": 9054148,
+  "nodes": [
+    249102388,
+    6338432265,
+    249104869,
+    249104870,
+    3950775923,
+    249104871,
+    249104872
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Молерова",
+    "name:en": "Molerova",
+    "name:etymology:wikidata": "Q2075216",
+    "name:sr": "Молерова",
+    "name:sr-Latn": "Molerova",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 104879985,
+  "timestamp": "2020-03-15T22:31:45Z",
+  "version": 37,
+  "changeset": 82229452,
+  "user": "Branko Kokanovic",
+  "uid": 95504,
+  "nodes": [
+    2934610105,
+    3955760020,
+    3955750445,
+    702297257,
+    5659133982,
+    3955759994,
+    3391232712,
+    5659133983,
+    1209454890
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "highway": "secondary",
+    "lanes": "3",
+    "name": "Булевар краља Александра",
+    "name:en": "King Alexander Boulevard",
+    "name:ru": "Бульвар короля Александра",
+    "name:sr": "Булевар краља Александра",
+    "name:sr-Latn": "Bulevar kralja Aleksandra",
+    "old_name": "Булевар револуције",
+    "old_name:sr": "Булевар револуције",
+    "old_name:sr-Latn": "Bulevar revolucije",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 116808347,
+  "timestamp": "2020-07-02T14:26:29Z",
+  "version": 12,
+  "changeset": 87458551,
+  "user": "TXBG",
+  "uid": 5569366,
+  "nodes": [
+    1316032196,
+    1316032165,
+    1316032202,
+    1316032176,
+    1316032189,
+    1316032143,
+    1316032195,
+    1316032164,
+    1316032201,
+    1316032175,
+    1316032054,
+    1316032181,
+    1316032100,
+    1316032186,
+    4785420133,
+    1316032132,
+    1316032192,
+    1316032196
+  ],
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "71",
+    "addr:postcode": "11000",
+    "addr:street": "Булевар краља Александра",
+    "alt_name": "Универзитетска библиотека Светозар Марковић",
+    "alt_name:sr": "Универзитетска библиотека Светозар Марковић",
+    "alt_name:sr-Latn": "Univerzitetska biblioteka Svetozar Marković",
+    "amenity": "library",
+    "building": "yes",
+    "library:type": "academic",
+    "name": "Универзитетска библиотека „Светозар Марковић“",
+    "name:en": "Svetozar Marković University Library",
+    "name:sr": "Универзитетска библиотека „Светозар Марковић“",
+    "name:sr-Latn": "Univerzitetska biblioteka „Svetozar Marković“",
+    "phone": "+381 11 3370511;+381 11 3370513",
+    "website": "http://www.unilib.bg.ac.rs/",
+    "wheelchair": "limited",
+    "wikidata": "Q683389",
+    "wikipedia": "en:Belgrade University Library"
+  }
+},
+{
+  "type": "way",
+  "id": 178541649,
+  "timestamp": "2020-04-13T16:57:34Z",
+  "version": 19,
+  "changeset": 83489461,
+  "user": "dingerdonger",
+  "uid": 9054148,
+  "nodes": [
+    2934610105,
+    3955760030,
+    6335802785
+  ],
+  "tags": {
+    "embedded_rails": "tram",
+    "highway": "secondary",
+    "lanes": "5",
+    "lanes:backward": "3",
+    "lanes:forward": "2",
+    "name": "Рузвелтова",
+    "name:-1933": "Гробљанска",
+    "name:1933-1940": "Гетеова",
+    "name:1940-1946": "Др Владана",
+    "name:en": "Ruzveltova",
+    "name:etymology:wikidata": "Q8007",
+    "name:sr": "Рузвелтова",
+    "name:sr-Latn": "Ruzveltova",
+    "oneway": "no",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|left;right|right"
+  }
+},
+{
+  "type": "way",
+  "id": 289911373,
+  "timestamp": "2020-03-30T21:02:31Z",
+  "version": 18,
+  "changeset": 82843541,
+  "user": "dingerdonger",
+  "uid": 9054148,
+  "nodes": [
+    249102387,
+    6336029720,
+    249343677,
+    249104671,
+    6338432268,
+    78970377,
+    418404990,
+    249104774,
+    249102388,
+    6338432266
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "name": "Булевар краља Александра",
+    "name:en": "King Alexander Boulevard",
+    "name:etymology:wikidata": "Q207384",
+    "name:ru": "Бульвар короля Александра",
+    "name:sr": "Булевар краља Александра",
+    "name:sr-Latn": "Bulevar kralja Aleksandra",
+    "old_name": "Булевар револуције",
+    "old_name:sr": "Булевар револуције",
+    "old_name:sr-Latn": "Bulevar revolucije",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 332023236,
+  "timestamp": "2019-03-07T22:01:46Z",
+  "version": 4,
+  "changeset": 67901889,
+  "user": "Copernicus529",
+  "uid": 9319354,
+  "nodes": [
+    3391232712,
+    4321343883,
+    3968643013,
+    3391232713
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "highway": "service",
+    "horse": "no",
+    "lit": "no",
+    "surface": "asphalt",
+    "width": "0"
+  }
+},
+{
+  "type": "way",
+  "id": 355758672,
+  "timestamp": "2020-03-30T21:02:31Z",
+  "version": 13,
+  "changeset": 82843541,
+  "user": "dingerdonger",
+  "uid": 9054148,
+  "nodes": [
+    3950775924,
+    6324239183,
+    6324239184,
+    6813464752,
+    249104821,
+    7197457407,
+    6324239181,
+    78970377
+  ],
+  "tags": {
+    "alt_name": "Књегиње Зорке",
+    "alt_name:en": "Knjeginje Zorke",
+    "alt_name:sr": "Књегиње Зорке",
+    "alt_name:sr-Latn": "Knjeginje Zorke",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Кнегиње Зорке",
+    "name:en": "Kneginje Zorke",
+    "name:etymology:wikidata": "Q226738",
+    "name:sr": "Кнегиње Зорке",
+    "name:sr-Latn": "Kneginje Zorke",
+    "old_name": "Ивана Милутиновића",
+    "old_name:sr": "Ивана Милутиновића",
+    "old_name:sr-Latn": "Ivana Milutinovića",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 377547512,
+  "timestamp": "2017-09-20T20:30:36Z",
+  "version": 3,
+  "changeset": 52223082,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    3809272205,
+    3809272206,
+    3809272207,
+    3809272208,
+    3809272209,
+    3809272210,
+    3809272211,
+    3809272212,
+    3809272205
+  ],
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "73a",
+    "addr:postcode": "11000",
+    "addr:street": "Булевар краља Александра",
+    "building": "university",
+    "name": "Рачунски центар Електротехничког факултета",
+    "name:sr": "Рачунски центар Електротехничког факултета",
+    "name:sr-Latn": "Računski centar Elektrotehničkog fakulteta",
+    "website": "http://rc.etf.rs/"
+  }
+},
+{
+  "type": "way",
+  "id": 377797153,
+  "timestamp": "2015-10-31T23:29:18Z",
+  "version": 1,
+  "changeset": 35002776,
+  "user": "sve_je_uzalud",
+  "uid": 3350518,
+  "nodes": [
+    3391232713,
+    3811924508,
+    3811924509
+  ],
+  "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 377797154,
+  "timestamp": "2015-10-31T23:29:18Z",
+  "version": 1,
+  "changeset": 35002776,
+  "user": "sve_je_uzalud",
+  "uid": 3350518,
+  "nodes": [
+    3811924508,
+    3811924510
+  ],
+  "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 378057067,
+  "timestamp": "2017-03-17T04:50:13Z",
+  "version": 2,
+  "changeset": 46917128,
+  "user": "nanosava",
+  "uid": 5424820,
+  "nodes": [
+    3814719036,
+    3814719037,
+    3814719038,
+    3814719039,
+    3814719036
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 389350842,
+  "timestamp": "2020-03-30T21:02:31Z",
+  "version": 8,
+  "changeset": 82843541,
+  "user": "dingerdonger",
+  "uid": 9054148,
+  "nodes": [
+    78970377,
+    6324239180,
+    6324239179,
+    3391232712
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "1",
+    "name": "Кнегиње Зорке",
+    "name:en": "Kneginje Zorke",
+    "name:etymology:wikidata": "Q226738",
+    "name:sr": "Кнегиње Зорке",
+    "name:sr-Latn": "Kneginje Zorke",
+    "old_name": "Ивана Милутиновића",
+    "old_name:sr": "Ивана Милутиновића",
+    "old_name:sr-Latn": "Ivana Milutinovića",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 389879360,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 11,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588,
+  "nodes": [
+    3930398864,
+    7140937746,
+    3930398868,
+    7140937747,
+    4011684649,
+    3930398871,
+    4011684652,
+    4011684651,
+    7140937744,
+    4011684650,
+    3930398860,
+    3930398861,
+    3930398862,
+    3930398863,
+    3930398864
+  ],
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "16",
+    "addr:postcode": "11000",
+    "addr:street": "Краљице Марије",
+    "amenity": "university",
+    "building": "university",
+    "building:levels": "5",
+    "name": "Машински факултет",
+    "name:en": "Faculty of Mechanical Engineering",
+    "name:sr": "Машински факултет",
+    "name:sr-Latn": "Mašinski fakultet",
+    "phone": "011-3302-205 и 0113302-403;",
+    "website": "https://www.mas.bg.ac.rs/"
+  }
+},
+{
+  "type": "way",
+  "id": 395173962,
+  "timestamp": "2019-09-01T13:26:18Z",
+  "version": 3,
+  "changeset": 73973008,
+  "user": "Serbian OSM Lint bot",
+  "uid": 6797352,
+  "nodes": [
+    3980756635,
+    3980756637,
+    3980756638,
+    3980756636,
+    3980756635
+  ],
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Патријарха Гаврила",
+    "building": "apartments"
+  }
+},
+{
+  "type": "way",
+  "id": 395173963,
+  "timestamp": "2019-08-31T20:51:27Z",
+  "version": 3,
+  "changeset": 73957862,
+  "user": "Serbian OSM Lint bot",
+  "uid": 6797352,
+  "nodes": [
+    3980756637,
+    3980756639,
+    3980756640,
+    3980756638,
+    3980756637
+  ],
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Патријарха Гаврила",
+    "building": "apartments"
+  }
+},
+{
+  "type": "way",
+  "id": 395173964,
+  "timestamp": "2019-09-01T13:40:16Z",
+  "version": 3,
+  "changeset": 73973301,
+  "user": "Serbian OSM Lint bot",
+  "uid": 6797352,
+  "nodes": [
+    3980756641,
+    3980756642,
+    3980756643,
+    3980756651,
+    3980756644,
+    3980756641
+  ],
+  "tags": {
+    "addr:housenumber": "92",
+    "addr:street": "Булевар краља Александра",
+    "building": "apartments"
+  }
+},
+{
+  "type": "way",
+  "id": 395173965,
+  "timestamp": "2019-09-12T13:48:07Z",
+  "version": 3,
+  "changeset": 74394691,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    3980756645,
+    3980756646,
+    3980756647,
+    3980756648,
+    3980756649,
+    3980756650,
+    3980756645
+  ],
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "86",
+    "addr:postcode": "11000",
+    "addr:street": "Булевар краља Александра",
+    "building": "yes",
+    "email": "ubs@ubs-asb.com",
+    "name": "Удружење банака Србије",
+    "name:en": "Association of Serbian Banks",
+    "name:sr": "Удружење банака Србије",
+    "name:sr-Latn": "Udruženje banaka Srbije",
+    "office": "financial",
+    "phone": "+381 11 3020760",
+    "website": "http://www.ubs-asb.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 395173966,
+  "timestamp": "2016-02-17T20:22:45Z",
+  "version": 2,
+  "changeset": 37275133,
+  "user": "nikicam",
+  "uid": 2886645,
+  "nodes": [
+    3980756643,
+    3988668036,
+    3988668035,
+    3980756647,
+    3980756648,
+    3980756651,
+    3980756643
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 395173970,
+  "timestamp": "2019-09-01T17:38:56Z",
+  "version": 4,
+  "changeset": 73978722,
+  "user": "Serbian OSM Lint bot",
+  "uid": 6797352,
+  "nodes": [
+    3980756759,
+    3980756762,
+    3980756767,
+    3980756763,
+    3980756764,
+    3980756760,
+    3980756759
+  ],
+  "tags": {
+    "addr:housenumber": "100",
+    "addr:street": "Кнегиње Зорке",
+    "building": "apartments"
+  }
+},
+{
+  "type": "way",
+  "id": 395173971,
+  "timestamp": "2016-02-04T20:12:09Z",
+  "version": 2,
+  "changeset": 37007083,
+  "user": "nikicam",
+  "uid": 2886645,
+  "nodes": [
+    3980756762,
+    3980756765,
+    3980756770,
+    3980756766,
+    3980756767,
+    3980756762
+  ],
+  "tags": {
+    "addr:housenumber": "102",
+    "addr:street": "Кнегиње Зорке",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 395173972,
+  "timestamp": "2019-09-01T16:37:09Z",
+  "version": 3,
+  "changeset": 73977301,
+  "user": "Serbian OSM Lint bot",
+  "uid": 6797352,
+  "nodes": [
+    3980756765,
+    3980756768,
+    3980756769,
+    3980756770,
+    3980756765
+  ],
+  "tags": {
+    "addr:housenumber": "104",
+    "addr:street": "Кнегиње Зорке",
+    "building": "apartments"
+  }
+},
+{
+  "type": "way",
+  "id": 395180960,
+  "timestamp": "2019-09-01T11:18:31Z",
+  "version": 3,
+  "changeset": 73970509,
+  "user": "Serbian OSM Lint bot",
+  "uid": 6797352,
+  "nodes": [
+    3980830074,
+    3980830079,
+    3980830080,
+    3980830081,
+    3980830074
+  ],
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Патријарха Гаврила",
+    "building": "apartments"
+  }
+},
+{
+  "type": "way",
+  "id": 395180961,
+  "timestamp": "2019-09-01T09:52:38Z",
+  "version": 4,
+  "changeset": 73968888,
+  "user": "Serbian OSM Lint bot",
+  "uid": 6797352,
+  "nodes": [
+    3980830076,
+    3980830082,
+    3980830083,
+    3980830079,
+    3980830080,
+    3980830077,
+    3980830076
+  ],
+  "tags": {
+    "addr:housenumber": "94",
+    "addr:street": "Булевар краља Александра",
+    "building": "apartments"
+  }
+},
+{
+  "type": "way",
+  "id": 433297884,
+  "timestamp": "2020-01-14T05:41:23Z",
+  "version": 3,
+  "changeset": 79544233,
+  "user": "Mengesh",
+  "uid": 7009309,
+  "nodes": [
+    4321343885,
+    4785420127,
+    4321343882,
+    4321343883,
+    4321343884
+  ],
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 433297885,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 4,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    7580899256,
+    7705127504,
+    7705127503,
+    7705127512,
+    7705127513,
+    7705127518,
+    7705127514,
+    7705127515,
+    7705127517,
+    7705127516,
+    4321343886,
+    7705127501,
+    7128001678,
+    7580899247,
+    7128001677,
+    4321343887
+  ],
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 485775496,
+  "timestamp": "2019-03-14T23:07:13Z",
+  "version": 4,
+  "changeset": 68155517,
+  "user": "daFisch",
+  "uid": 8759590,
+  "nodes": [
+    4785420127,
+    3955750445,
+    2077479913,
+    3955760157,
+    3955760158,
+    3955760159
+  ],
+  "tags": {
+    "crossing": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 485775499,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 4,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    3816291017,
+    4785420129,
+    4785420130,
+    7705127500
+  ],
+  "tags": {
+    "highway": "footway",
+    "layer": "-1",
+    "lit": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 485775501,
+  "timestamp": "2019-03-13T19:52:41Z",
+  "version": 3,
+  "changeset": 68112458,
+  "user": "spuddy93",
+  "uid": 8600365,
+  "nodes": [
+    4785420129,
+    3816291018
+  ],
+  "tags": {
+    "highway": "footway",
+    "layer": "-1",
+    "lit": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 485775503,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 4,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    4785420130,
+    6088927990,
+    7705127507,
+    4785420131
+  ],
+  "tags": {
+    "highway": "footway",
+    "layer": "-1",
+    "lit": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 532829405,
+  "timestamp": "2017-10-15T22:44:18Z",
+  "version": 1,
+  "changeset": 52968339,
+  "user": "suff",
+  "uid": 2065166,
+  "nodes": [
+    3816291018,
+    5170093998
+  ],
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 532829406,
+  "timestamp": "2017-10-15T22:44:18Z",
+  "version": 1,
+  "changeset": 52968339,
+  "user": "suff",
+  "uid": 2065166,
+  "nodes": [
+    3816291017,
+    5170093999
+  ],
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 532829407,
+  "timestamp": "2017-10-15T22:44:18Z",
+  "version": 1,
+  "changeset": 52968339,
+  "user": "suff",
+  "uid": 2065166,
+  "nodes": [
+    5170093999,
+    5170094000,
+    4321343885
+  ],
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 631127616,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 4,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    5170094000,
+    6412582448,
+    5959958027,
+    7705127519,
+    5959958028,
+    5959958029,
+    5959958030,
+    7580899254,
+    5959958031,
+    5959958032,
+    6331741969
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 676585428,
+  "timestamp": "2020-04-13T16:57:34Z",
+  "version": 8,
+  "changeset": 83489461,
+  "user": "dingerdonger",
+  "uid": 9054148,
+  "nodes": [
+    6335802785,
+    6548522340
+  ],
+  "tags": {
+    "embedded_rails": "tram",
+    "highway": "secondary",
+    "lanes": "5",
+    "lanes:backward": "3",
+    "lanes:forward": "2",
+    "name": "Рузвелтова",
+    "name:-1933": "Гробљанска",
+    "name:1933-1940": "Гетеова",
+    "name:1940-1946": "Др Владана",
+    "name:en": "Ruzveltova",
+    "name:etymology:wikidata": "Q8007",
+    "name:sr": "Рузвелтова",
+    "name:sr-Latn": "Ruzveltova",
+    "oneway": "no",
+    "surface": "asphalt",
+    "turn:lanes:forward": "through|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 676885849,
+  "timestamp": "2020-03-30T21:02:31Z",
+  "version": 2,
+  "changeset": 82843541,
+  "user": "dingerdonger",
+  "uid": 9054148,
+  "nodes": [
+    6338432266,
+    3955760159,
+    249343764
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "name": "Булевар краља Александра",
+    "name:en": "King Alexander Boulevard",
+    "name:etymology:wikidata": "Q207384",
+    "name:ru": "Бульвар короля Александра",
+    "name:sr": "Булевар краља Александра",
+    "name:sr-Latn": "Bulevar kralja Aleksandra",
+    "old_name": "Булевар револуције",
+    "old_name:sr": "Булевар револуције",
+    "old_name:sr-Latn": "Bulevar revolucije",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "turn:lanes": "left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 676885850,
+  "timestamp": "2019-03-28T16:00:50Z",
+  "version": 2,
+  "changeset": 68631102,
+  "user": "AnonJason",
+  "uid": 9151615,
+  "nodes": [
+    418404990,
+    3949093345,
+    6338432269,
+    3955759994
+  ],
+  "tags": {
+    "footway": "crossing",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 764372338,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 1,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588,
+  "nodes": [
+    3930398864,
+    3930398865,
+    7140937745,
+    3930398866,
+    3930398867,
+    3930398868,
+    7140937746,
+    3930398864
+  ],
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "1а",
+    "addr:postcode": "11000",
+    "addr:street": "Рузвелтова",
+    "amenity": "university",
+    "building": "university",
+    "building:levels": "3",
+    "name": "Завод за физику",
+    "name:sr": "Завод за физику",
+    "name:sr-Latn": "Zavod za fiziku"
+  }
+},
+{
+  "type": "way",
+  "id": 825186845,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    7705127510,
+    7705127511
+  ],
+  "tags": {
+    "conveying": "yes",
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 825186846,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    7705127511,
+    3816291018
+  ],
+  "tags": {
+    "highway": "footway",
+    "layer": "-1",
+    "lit": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 825186847,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    5170093998,
+    7705127510,
+    7705127519
+  ],
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 825186848,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    7705127520,
+    7705127521
+  ],
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 825186851,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    7705127525,
+    7705127526,
+    4785420129
+  ],
+  "tags": {
+    "highway": "footway",
+    "layer": "-1",
+    "lit": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 825186854,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    7705127522,
+    7705127526
+  ],
+  "tags": {
+    "highway": "steps",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 825186855,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    7705127521,
+    7705127522,
+    7705127523
+  ],
+  "tags": {
+    "highway": "steps",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 825186856,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    7705127523,
+    7705127524
+  ],
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 825186857,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    5959958027,
+    7705127530,
+    7705127534,
+    7705127535,
+    7705127533,
+    7705127531,
+    7705127532,
+    6331741969
+  ],
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 825186859,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "nodes": [
+    7705127520,
+    7705127534
+  ],
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "relation",
+  "id": 9491979,
+  "timestamp": "2019-04-16T21:34:39Z",
+  "version": 3,
+  "changeset": 69287993,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "members": [
+    {
+      "type": "way",
+      "ref": 393652640,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 684173283,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 684173282,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 684173284,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 684173285,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "73",
+    "addr:postcode": "11000",
+    "addr:street": "Булевар краља Александра",
+    "building": "university",
+    "building:levels": "4",
+    "name": "Зграда Техничког факултета",
+    "name:sr": "Зграда Техничког факултета",
+    "name:sr-Latn": "Zgrada Tehničkog fakulteta",
+    "type": "multipolygon",
+    "wikidata": "Q15506871",
+    "wikipedia": "sr:Зграда Техничког факултета у Београду"
+  }
+},
+{
+  "type": "node",
+  "id": 249104872,
+  "lat": 44.8017344,
+  "lon": 20.4720366,
+  "timestamp": "2016-01-30T16:11:22Z",
+  "version": 2,
+  "changeset": 36900673,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3950775924,
+  "lat": 44.8035563,
+  "lon": 20.4726624,
+  "timestamp": "2019-03-12T20:31:53Z",
+  "version": 2,
+  "changeset": 68077206,
+  "user": "AnonJason",
+  "uid": 9151615,
+  "tags": {
+    "crossing": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 249102387,
+  "lat": 44.8062365,
+  "lon": 20.4733869,
+  "timestamp": "2019-11-10T11:58:26Z",
+  "version": 21,
+  "changeset": 76866099,
+  "user": "TXBG",
+  "uid": 5569366,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 249104670,
+  "lat": 44.8047825,
+  "lon": 20.4729588,
+  "timestamp": "2019-09-21T06:58:28Z",
+  "version": 3,
+  "changeset": 74741550,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3950775927,
+  "lat": 44.8040625,
+  "lon": 20.4719438,
+  "timestamp": "2016-01-30T16:25:27Z",
+  "version": 2,
+  "changeset": 36900909,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 249104870,
+  "lat": 44.8035802,
+  "lon": 20.4743857,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 3,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 249104871,
+  "lat": 44.8028516,
+  "lon": 20.4735070,
+  "timestamp": "2016-01-30T16:11:22Z",
+  "version": 3,
+  "changeset": 36900673,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3950775923,
+  "lat": 44.8029036,
+  "lon": 20.4735656,
+  "timestamp": "2016-01-30T16:11:22Z",
+  "version": 2,
+  "changeset": 36900673,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 78970377,
+  "lat": 44.8055943,
+  "lon": 20.4749080,
+  "timestamp": "2019-06-18T19:41:09Z",
+  "version": 23,
+  "changeset": 71378446,
+  "user": "Goatosm",
+  "uid": 8578206
+},
+{
+  "type": "node",
+  "id": 249102388,
+  "lat": 44.8050242,
+  "lon": 20.4762449,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 19,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 249104671,
+  "lat": 44.8057983,
+  "lon": 20.4744149,
+  "timestamp": "2018-06-02T17:50:13Z",
+  "version": 17,
+  "changeset": 59490888,
+  "user": "TXBG",
+  "uid": 5569366
+},
+{
+  "type": "node",
+  "id": 249104773,
+  "lat": 44.8041022,
+  "lon": 20.4739105,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 3,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 249104774,
+  "lat": 44.8051816,
+  "lon": 20.4758913,
+  "timestamp": "2016-01-31T23:06:18Z",
+  "version": 18,
+  "changeset": 36927925,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 249104821,
+  "lat": 44.8044646,
+  "lon": 20.4736005,
+  "timestamp": "2019-09-21T06:58:28Z",
+  "version": 3,
+  "changeset": 74741550,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 249104869,
+  "lat": 44.8046410,
+  "lon": 20.4757369,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 3,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 249343677,
+  "lat": 44.8060287,
+  "lon": 20.4738700,
+  "timestamp": "2017-09-03T16:46:55Z",
+  "version": 20,
+  "changeset": 51697215,
+  "user": "TXBG",
+  "uid": 5569366
+},
+{
+  "type": "node",
+  "id": 249343764,
+  "lat": 44.8047181,
+  "lon": 20.4769281,
+  "timestamp": "2019-03-13T15:51:45Z",
+  "version": 20,
+  "changeset": 68104841,
+  "user": "AnonJason",
+  "uid": 9151615,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 418404990,
+  "lat": 44.8055428,
+  "lon": 20.4750322,
+  "timestamp": "2019-03-28T16:00:50Z",
+  "version": 8,
+  "changeset": 68631102,
+  "user": "AnonJason",
+  "uid": 9151615,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing_ref": "zebra",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 702297257,
+  "lat": 44.8051100,
+  "lon": 20.4763683,
+  "timestamp": "2019-08-23T11:45:42Z",
+  "version": 11,
+  "changeset": 73662614,
+  "user": "mpele",
+  "uid": 93026,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Технички факултети",
+    "name:en": "Tehnicki fakulteti",
+    "name:sr": "Технички факултети",
+    "name:sr-Latn": "Tehnički fakulteti",
+    "ref": "585",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1209454890,
+  "lat": 44.8061088,
+  "lon": 20.4739988,
+  "timestamp": "2019-06-18T19:41:09Z",
+  "version": 8,
+  "changeset": 71378446,
+  "user": "Goatosm",
+  "uid": 8578206
+},
+{
+  "type": "node",
+  "id": 1316032054,
+  "lat": 44.8062494,
+  "lon": 20.4745433,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032100,
+  "lat": 44.8062618,
+  "lon": 20.4744348,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032132,
+  "lat": 44.8062163,
+  "lon": 20.4743400,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032143,
+  "lat": 44.8060227,
+  "lon": 20.4750300,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032164,
+  "lat": 44.8060836,
+  "lon": 20.4749696,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032165,
+  "lat": 44.8059924,
+  "lon": 20.4746956,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032175,
+  "lat": 44.8063545,
+  "lon": 20.4746304,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032176,
+  "lat": 44.8059373,
+  "lon": 20.4750121,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032181,
+  "lat": 44.8062862,
+  "lon": 20.4744550,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032186,
+  "lat": 44.8062795,
+  "lon": 20.4743924,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032189,
+  "lat": 44.8060063,
+  "lon": 20.4750693,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032192,
+  "lat": 44.8061107,
+  "lon": 20.4745930,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032195,
+  "lat": 44.8060492,
+  "lon": 20.4750519,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032196,
+  "lat": 44.8060546,
+  "lon": 20.4745465,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032201,
+  "lat": 44.8061797,
+  "lon": 20.4750493,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 1316032202,
+  "lat": 44.8060496,
+  "lon": 20.4747430,
+  "timestamp": "2019-04-17T13:46:36Z",
+  "version": 6,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 2077479913,
+  "lat": 44.8048967,
+  "lon": 20.4767908,
+  "timestamp": "2019-03-14T19:48:44Z",
+  "version": 3,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590
+},
+{
+  "type": "node",
+  "id": 2934185500,
+  "lat": 44.8048721,
+  "lon": 20.4753215,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 3,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 2934610105,
+  "lat": 44.8048180,
+  "lon": 20.4770739,
+  "timestamp": "2019-03-14T19:48:44Z",
+  "version": 3,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3391232712,
+  "lat": 44.8056860,
+  "lon": 20.4750096,
+  "timestamp": "2019-06-18T19:41:09Z",
+  "version": 8,
+  "changeset": 71378446,
+  "user": "Goatosm",
+  "uid": 8578206
+},
+{
+  "type": "node",
+  "id": 3391232713,
+  "lat": 44.8063462,
+  "lon": 20.4755971,
+  "timestamp": "2019-06-18T19:41:09Z",
+  "version": 5,
+  "changeset": 71378446,
+  "user": "Goatosm",
+  "uid": 8578206
+},
+{
+  "type": "node",
+  "id": 3809272205,
+  "lat": 44.8065161,
+  "lon": 20.4762771,
+  "timestamp": "2015-10-29T22:34:02Z",
+  "version": 1,
+  "changeset": 34961411,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3809272206,
+  "lat": 44.8064151,
+  "lon": 20.4764247,
+  "timestamp": "2015-10-29T22:34:02Z",
+  "version": 1,
+  "changeset": 34961411,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3809272207,
+  "lat": 44.8064655,
+  "lon": 20.4764932,
+  "timestamp": "2015-10-29T22:34:02Z",
+  "version": 1,
+  "changeset": 34961411,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3809272208,
+  "lat": 44.8063944,
+  "lon": 20.4765971,
+  "timestamp": "2015-10-29T22:34:02Z",
+  "version": 1,
+  "changeset": 34961411,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3809272209,
+  "lat": 44.8061730,
+  "lon": 20.4762960,
+  "timestamp": "2015-10-29T22:34:02Z",
+  "version": 1,
+  "changeset": 34961411,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3809272210,
+  "lat": 44.8062416,
+  "lon": 20.4761957,
+  "timestamp": "2015-10-29T22:34:02Z",
+  "version": 1,
+  "changeset": 34961411,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3809272211,
+  "lat": 44.8063517,
+  "lon": 20.4763454,
+  "timestamp": "2015-10-29T22:34:02Z",
+  "version": 1,
+  "changeset": 34961411,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3809272212,
+  "lat": 44.8064552,
+  "lon": 20.4761943,
+  "timestamp": "2015-10-29T22:34:02Z",
+  "version": 1,
+  "changeset": 34961411,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3811924508,
+  "lat": 44.8055926,
+  "lon": 20.4772909,
+  "timestamp": "2019-04-16T14:55:52Z",
+  "version": 2,
+  "changeset": 69275113,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3811924509,
+  "lat": 44.8051866,
+  "lon": 20.4769569,
+  "timestamp": "2019-04-16T14:55:52Z",
+  "version": 2,
+  "changeset": 69275113,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3811924510,
+  "lat": 44.8058859,
+  "lon": 20.4779207,
+  "timestamp": "2019-04-16T14:55:52Z",
+  "version": 2,
+  "changeset": 69275113,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3814719036,
+  "lat": 44.8063107,
+  "lon": 20.4768180,
+  "timestamp": "2015-11-02T23:29:14Z",
+  "version": 1,
+  "changeset": 35045820,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3814719037,
+  "lat": 44.8062046,
+  "lon": 20.4769732,
+  "timestamp": "2015-11-02T23:29:14Z",
+  "version": 1,
+  "changeset": 35045820,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3814719038,
+  "lat": 44.8060174,
+  "lon": 20.4767190,
+  "timestamp": "2015-11-02T23:29:14Z",
+  "version": 1,
+  "changeset": 35045820,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3814719039,
+  "lat": 44.8061234,
+  "lon": 20.4765638,
+  "timestamp": "2015-11-02T23:29:14Z",
+  "version": 1,
+  "changeset": 35045820,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3816291017,
+  "lat": 44.8050498,
+  "lon": 20.4770148,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 3,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 3816291018,
+  "lat": 44.8052461,
+  "lon": 20.4773854,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 2,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 3930398860,
+  "lat": 44.8069919,
+  "lon": 20.4762294,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 3,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3930398861,
+  "lat": 44.8064841,
+  "lon": 20.4766717,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 3,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3930398862,
+  "lat": 44.8065318,
+  "lon": 20.4767806,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 3,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3930398863,
+  "lat": 44.8058894,
+  "lon": 20.4773403,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 3,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3930398864,
+  "lat": 44.8059235,
+  "lon": 20.4774179,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 3,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3930398865,
+  "lat": 44.8058078,
+  "lon": 20.4775186,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 3,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3930398866,
+  "lat": 44.8060539,
+  "lon": 20.4780803,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 3,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3930398867,
+  "lat": 44.8064331,
+  "lon": 20.4777502,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 3,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3930398868,
+  "lat": 44.8063591,
+  "lon": 20.4775812,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 3,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3930398871,
+  "lat": 44.8076590,
+  "lon": 20.4765689,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 4,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3949093345,
+  "lat": 44.8055715,
+  "lon": 20.4750564,
+  "timestamp": "2016-01-19T20:09:02Z",
+  "version": 2,
+  "changeset": 36687673,
+  "user": "vakulya",
+  "uid": 1559158
+},
+{
+  "type": "node",
+  "id": 3955750445,
+  "lat": 44.8049211,
+  "lon": 20.4768102,
+  "timestamp": "2019-03-13T15:51:46Z",
+  "version": 2,
+  "changeset": 68104841,
+  "user": "AnonJason",
+  "uid": 9151615,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing_ref": "zebra",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 3955759994,
+  "lat": 44.8056437,
+  "lon": 20.4751160,
+  "timestamp": "2019-03-28T16:00:50Z",
+  "version": 4,
+  "changeset": 68631102,
+  "user": "AnonJason",
+  "uid": 9151615,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing_ref": "zebra",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3955760020,
+  "lat": 44.8048808,
+  "lon": 20.4769183,
+  "timestamp": "2016-01-19T20:08:57Z",
+  "version": 1,
+  "changeset": 36687673,
+  "user": "vakulya",
+  "uid": 1559158
+},
+{
+  "type": "node",
+  "id": 3955760030,
+  "lat": 44.8048466,
+  "lon": 20.4771186,
+  "timestamp": "2016-01-19T20:08:57Z",
+  "version": 1,
+  "changeset": 36687673,
+  "user": "vakulya",
+  "uid": 1559158
+},
+{
+  "type": "node",
+  "id": 3955760157,
+  "lat": 44.8048904,
+  "lon": 20.4767867,
+  "timestamp": "2019-03-14T19:48:45Z",
+  "version": 2,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590
+},
+{
+  "type": "node",
+  "id": 3955760158,
+  "lat": 44.8048502,
+  "lon": 20.4767579,
+  "timestamp": "2019-03-14T19:48:45Z",
+  "version": 2,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3955760159,
+  "lat": 44.8048079,
+  "lon": 20.4767261,
+  "timestamp": "2019-03-14T19:48:45Z",
+  "version": 3,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing_ref": "zebra",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3968643008,
+  "lat": 44.8057769,
+  "lon": 20.4751316,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643009,
+  "lat": 44.8058527,
+  "lon": 20.4751969,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643010,
+  "lat": 44.8058160,
+  "lon": 20.4752815,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643011,
+  "lat": 44.8061778,
+  "lon": 20.4755934,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643012,
+  "lat": 44.8061970,
+  "lon": 20.4755491,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643013,
+  "lat": 44.8058743,
+  "lon": 20.4751929,
+  "timestamp": "2019-06-18T19:41:09Z",
+  "version": 4,
+  "changeset": 71378446,
+  "user": "Goatosm",
+  "uid": 8578206
+},
+{
+  "type": "node",
+  "id": 3968643014,
+  "lat": 44.8061964,
+  "lon": 20.4757905,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643015,
+  "lat": 44.8061680,
+  "lon": 20.4757661,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643016,
+  "lat": 44.8056238,
+  "lon": 20.4770202,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643017,
+  "lat": 44.8056585,
+  "lon": 20.4770501,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643018,
+  "lat": 44.8055835,
+  "lon": 20.4772230,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643019,
+  "lat": 44.8055071,
+  "lon": 20.4771571,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643020,
+  "lat": 44.8055281,
+  "lon": 20.4771085,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643021,
+  "lat": 44.8051692,
+  "lon": 20.4767991,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643022,
+  "lat": 44.8051358,
+  "lon": 20.4768762,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3968643023,
+  "lat": 44.8050577,
+  "lon": 20.4768090,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 5,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3980756635,
+  "lat": 44.8048185,
+  "lon": 20.4751530,
+  "timestamp": "2016-01-31T22:00:52Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756636,
+  "lat": 44.8049207,
+  "lon": 20.4750321,
+  "timestamp": "2016-02-04T20:05:47Z",
+  "version": 2,
+  "changeset": 37006924,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756637,
+  "lat": 44.8048979,
+  "lon": 20.4752974,
+  "timestamp": "2016-02-04T20:05:47Z",
+  "version": 3,
+  "changeset": 37006924,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756638,
+  "lat": 44.8050006,
+  "lon": 20.4751894,
+  "timestamp": "2016-01-31T22:00:52Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756639,
+  "lat": 44.8049993,
+  "lon": 20.4754932,
+  "timestamp": "2016-01-31T22:00:52Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756640,
+  "lat": 44.8050974,
+  "lon": 20.4753877,
+  "timestamp": "2016-01-31T22:00:52Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756641,
+  "lat": 44.8050599,
+  "lon": 20.4755407,
+  "timestamp": "2016-02-04T20:05:47Z",
+  "version": 2,
+  "changeset": 37006924,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756642,
+  "lat": 44.8051613,
+  "lon": 20.4756181,
+  "timestamp": "2016-02-04T20:12:08Z",
+  "version": 3,
+  "changeset": 37007083,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756643,
+  "lat": 44.8052467,
+  "lon": 20.4753967,
+  "timestamp": "2016-02-04T20:05:47Z",
+  "version": 2,
+  "changeset": 37006924,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756644,
+  "lat": 44.8051477,
+  "lon": 20.4753168,
+  "timestamp": "2016-01-31T22:00:52Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756645,
+  "lat": 44.8053478,
+  "lon": 20.4747018,
+  "timestamp": "2016-01-31T22:00:52Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756646,
+  "lat": 44.8054773,
+  "lon": 20.4748342,
+  "timestamp": "2016-02-04T20:05:47Z",
+  "version": 2,
+  "changeset": 37006924,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756647,
+  "lat": 44.8054070,
+  "lon": 20.4750061,
+  "timestamp": "2016-02-04T20:05:47Z",
+  "version": 2,
+  "changeset": 37006924,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756648,
+  "lat": 44.8053180,
+  "lon": 20.4749303,
+  "timestamp": "2016-02-04T20:05:47Z",
+  "version": 2,
+  "changeset": 37006924,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756649,
+  "lat": 44.8053398,
+  "lon": 20.4748779,
+  "timestamp": "2016-02-04T20:05:47Z",
+  "version": 2,
+  "changeset": 37006924,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756650,
+  "lat": 44.8052858,
+  "lon": 20.4748292,
+  "timestamp": "2016-01-31T22:00:52Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756651,
+  "lat": 44.8051606,
+  "lon": 20.4753269,
+  "timestamp": "2016-01-31T22:00:52Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756759,
+  "lat": 44.8050357,
+  "lon": 20.4743352,
+  "timestamp": "2016-02-02T19:54:45Z",
+  "version": 2,
+  "changeset": 36964812,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756760,
+  "lat": 44.8049318,
+  "lon": 20.4745228,
+  "timestamp": "2016-02-04T20:05:47Z",
+  "version": 3,
+  "changeset": 37006924,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756762,
+  "lat": 44.8051143,
+  "lon": 20.4744240,
+  "timestamp": "2016-02-04T20:05:47Z",
+  "version": 2,
+  "changeset": 37006924,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756763,
+  "lat": 44.8049700,
+  "lon": 20.4746870,
+  "timestamp": "2016-01-31T23:06:18Z",
+  "version": 2,
+  "changeset": 36927925,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756764,
+  "lat": 44.8048895,
+  "lon": 20.4746018,
+  "timestamp": "2016-01-31T22:00:53Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756765,
+  "lat": 44.8051981,
+  "lon": 20.4745217,
+  "timestamp": "2016-01-31T22:00:53Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756766,
+  "lat": 44.8050974,
+  "lon": 20.4747073,
+  "timestamp": "2016-01-31T22:00:53Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756767,
+  "lat": 44.8050105,
+  "lon": 20.4746136,
+  "timestamp": "2016-01-31T22:00:53Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756768,
+  "lat": 44.8053181,
+  "lon": 20.4746509,
+  "timestamp": "2016-01-31T22:00:53Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756769,
+  "lat": 44.8052643,
+  "lon": 20.4747586,
+  "timestamp": "2016-02-04T20:05:47Z",
+  "version": 2,
+  "changeset": 37006924,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980756770,
+  "lat": 44.8051424,
+  "lon": 20.4746243,
+  "timestamp": "2016-01-31T22:00:53Z",
+  "version": 1,
+  "changeset": 36927029,
+  "user": "nikicam",
+  "uid": 2886645
+},
+{
+  "type": "node",
+  "id": 3980830074,
+  "lat": 44.8049397,
+  "lon": 20.4755138,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 2,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3980830076,
+  "lat": 44.8049075,
+  "lon": 20.4759886,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 2,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3980830077,
+  "lat": 44.8049482,
+  "lon": 20.4759032,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 2,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3980830079,
+  "lat": 44.8050382,
+  "lon": 20.4757175,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 2,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3980830080,
+  "lat": 44.8049919,
+  "lon": 20.4758136,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 2,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3980830081,
+  "lat": 44.8048776,
+  "lon": 20.4756233,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 2,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3980830082,
+  "lat": 44.8049772,
+  "lon": 20.4760861,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 2,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3980830083,
+  "lat": 44.8050922,
+  "lon": 20.4758123,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 2,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 3988668035,
+  "lat": 44.8053736,
+  "lon": 20.4750875,
+  "timestamp": "2016-02-17T20:22:40Z",
+  "version": 2,
+  "changeset": 37275133,
+  "user": "nikicam",
+  "uid": 2886645,
+  "tags": {
+    "addr:housenumber": "88",
+    "addr:street": "Булевар краља Александра"
+  }
+},
+{
+  "type": "node",
+  "id": 3988668036,
+  "lat": 44.8052813,
+  "lon": 20.4753123,
+  "timestamp": "2016-02-17T20:22:41Z",
+  "version": 2,
+  "changeset": 37275133,
+  "user": "nikicam",
+  "uid": 2886645,
+  "tags": {
+    "addr:housenumber": "90",
+    "addr:street": "Булевар краља Александра"
+  }
+},
+{
+  "type": "node",
+  "id": 4011684649,
+  "lat": 44.8070201,
+  "lon": 20.4771255,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 3,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4011684650,
+  "lat": 44.8075409,
+  "lon": 20.4757511,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 3,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4011684651,
+  "lat": 44.8079002,
+  "lon": 20.4765705,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 3,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4011684652,
+  "lat": 44.8077262,
+  "lon": 20.4767220,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 3,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343869,
+  "lat": 44.8056802,
+  "lon": 20.4753545,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 4,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343870,
+  "lat": 44.8057583,
+  "lon": 20.4754218,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 4,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343871,
+  "lat": 44.8057652,
+  "lon": 20.4754058,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 4,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343872,
+  "lat": 44.8058111,
+  "lon": 20.4754453,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 4,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343873,
+  "lat": 44.8056276,
+  "lon": 20.4758681,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 4,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343874,
+  "lat": 44.8055734,
+  "lon": 20.4758213,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 4,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343875,
+  "lat": 44.8053963,
+  "lon": 20.4762294,
+  "timestamp": "2019-04-16T14:13:19Z",
+  "version": 4,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343876,
+  "lat": 44.8054547,
+  "lon": 20.4762797,
+  "timestamp": "2019-04-16T14:13:19Z",
+  "version": 4,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343877,
+  "lat": 44.8052719,
+  "lon": 20.4767008,
+  "timestamp": "2019-04-16T14:13:19Z",
+  "version": 4,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343878,
+  "lat": 44.8052270,
+  "lon": 20.4766621,
+  "timestamp": "2019-04-16T14:13:19Z",
+  "version": 4,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343879,
+  "lat": 44.8052315,
+  "lon": 20.4766517,
+  "timestamp": "2019-04-16T14:13:19Z",
+  "version": 4,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343880,
+  "lat": 44.8051547,
+  "lon": 20.4765855,
+  "timestamp": "2019-04-16T14:13:19Z",
+  "version": 4,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343881,
+  "lat": 44.8062728,
+  "lon": 20.4756144,
+  "timestamp": "2019-04-16T14:13:19Z",
+  "version": 4,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343882,
+  "lat": 44.8051426,
+  "lon": 20.4765304,
+  "timestamp": "2016-07-26T15:42:48Z",
+  "version": 1,
+  "changeset": 41040941,
+  "user": "sve_je_uzalud",
+  "uid": 3350518
+},
+{
+  "type": "node",
+  "id": 4321343883,
+  "lat": 44.8057549,
+  "lon": 20.4750881,
+  "timestamp": "2019-06-18T19:41:09Z",
+  "version": 3,
+  "changeset": 71378446,
+  "user": "Goatosm",
+  "uid": 8578206
+},
+{
+  "type": "node",
+  "id": 4321343884,
+  "lat": 44.8061576,
+  "lon": 20.4740390,
+  "timestamp": "2019-06-18T19:41:09Z",
+  "version": 3,
+  "changeset": 71378446,
+  "user": "Goatosm",
+  "uid": 8578206,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing_ref": "zebra",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 4321343885,
+  "lat": 44.8049960,
+  "lon": 20.4769213,
+  "timestamp": "2019-04-17T19:06:28Z",
+  "version": 2,
+  "changeset": 69321219,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343886,
+  "lat": 44.8046559,
+  "lon": 20.4776973,
+  "timestamp": "2020-01-13T09:24:38Z",
+  "version": 2,
+  "changeset": 79507546,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 4321343887,
+  "lat": 44.8037245,
+  "lon": 20.4799094,
+  "timestamp": "2016-07-26T15:42:48Z",
+  "version": 1,
+  "changeset": 41040941,
+  "user": "sve_je_uzalud",
+  "uid": 3350518
+},
+{
+  "type": "node",
+  "id": 4785420127,
+  "lat": 44.8050020,
+  "lon": 20.4768738,
+  "timestamp": "2017-04-10T03:12:35Z",
+  "version": 1,
+  "changeset": 47608348,
+  "user": "sve_je_uzalud",
+  "uid": 3350518
+},
+{
+  "type": "node",
+  "id": 4785420129,
+  "lat": 44.8049968,
+  "lon": 20.4771190,
+  "timestamp": "2017-04-10T03:12:35Z",
+  "version": 1,
+  "changeset": 47608348,
+  "user": "sve_je_uzalud",
+  "uid": 3350518
+},
+{
+  "type": "node",
+  "id": 4785420130,
+  "lat": 44.8048672,
+  "lon": 20.4773941,
+  "timestamp": "2017-04-10T03:12:35Z",
+  "version": 1,
+  "changeset": 47608348,
+  "user": "sve_je_uzalud",
+  "uid": 3350518
+},
+{
+  "type": "node",
+  "id": 4785420131,
+  "lat": 44.8055490,
+  "lon": 20.4784684,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 3,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 4785420133,
+  "lat": 44.8062247,
+  "lon": 20.4743469,
+  "timestamp": "2019-04-17T13:46:37Z",
+  "version": 4,
+  "changeset": 69310370,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 5170093998,
+  "lat": 44.8052941,
+  "lon": 20.4774326,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 2,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "tags": {
+    "name": "Вуков споменик",
+    "name:sr": "Вуков споменик",
+    "name:sr-Latn": "Vukov spomenik",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5170093999,
+  "lat": 44.8050256,
+  "lon": 20.4769885,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 3,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "tags": {
+    "name": "Вуков споменик",
+    "name:sr": "Вуков споменик",
+    "name:sr-Latn": "Vukov spomenik",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5170094000,
+  "lat": 44.8050049,
+  "lon": 20.4769669,
+  "timestamp": "2019-04-17T19:06:28Z",
+  "version": 2,
+  "changeset": 69321219,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 5659133982,
+  "lat": 44.8052598,
+  "lon": 20.4760168,
+  "timestamp": "2018-06-02T17:50:12Z",
+  "version": 1,
+  "changeset": 59490888,
+  "user": "TXBG",
+  "uid": 5569366
+},
+{
+  "type": "node",
+  "id": 5659133983,
+  "lat": 44.8058852,
+  "lon": 20.4745426,
+  "timestamp": "2018-06-02T17:50:12Z",
+  "version": 1,
+  "changeset": 59490888,
+  "user": "TXBG",
+  "uid": 5569366
+},
+{
+  "type": "node",
+  "id": 5959958027,
+  "lat": 44.8050569,
+  "lon": 20.4770946,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 2,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 5959958028,
+  "lat": 44.8054751,
+  "lon": 20.4774251,
+  "timestamp": "2018-10-05T21:24:32Z",
+  "version": 1,
+  "changeset": 63243797,
+  "user": "sve_je_uzalud",
+  "uid": 3350518
+},
+{
+  "type": "node",
+  "id": 5959958029,
+  "lat": 44.8056248,
+  "lon": 20.4776155,
+  "timestamp": "2018-10-05T21:24:32Z",
+  "version": 1,
+  "changeset": 63243797,
+  "user": "sve_je_uzalud",
+  "uid": 3350518
+},
+{
+  "type": "node",
+  "id": 5959958030,
+  "lat": 44.8057854,
+  "lon": 20.4780323,
+  "timestamp": "2018-10-05T21:24:32Z",
+  "version": 1,
+  "changeset": 63243797,
+  "user": "sve_je_uzalud",
+  "uid": 3350518
+},
+{
+  "type": "node",
+  "id": 5959958031,
+  "lat": 44.8059314,
+  "lon": 20.4783462,
+  "timestamp": "2018-10-05T21:24:32Z",
+  "version": 1,
+  "changeset": 63243797,
+  "user": "sve_je_uzalud",
+  "uid": 3350518
+},
+{
+  "type": "node",
+  "id": 5959958032,
+  "lat": 44.8059460,
+  "lon": 20.4784286,
+  "timestamp": "2018-10-05T21:24:32Z",
+  "version": 1,
+  "changeset": 63243797,
+  "user": "sve_je_uzalud",
+  "uid": 3350518
+},
+{
+  "type": "node",
+  "id": 6088927990,
+  "lat": 44.8051803,
+  "lon": 20.4778859,
+  "timestamp": "2018-11-24T22:44:40Z",
+  "version": 1,
+  "changeset": 64855559,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6324239177,
+  "lat": 44.8058245,
+  "lon": 20.4744534,
+  "timestamp": "2019-03-08T12:03:21Z",
+  "version": 2,
+  "changeset": 67919877,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 6324239178,
+  "lat": 44.8058527,
+  "lon": 20.4744949,
+  "timestamp": "2019-03-08T12:03:21Z",
+  "version": 2,
+  "changeset": 67919877,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 6324239179,
+  "lat": 44.8056521,
+  "lon": 20.4749721,
+  "timestamp": "2019-06-18T19:41:09Z",
+  "version": 3,
+  "changeset": 71378446,
+  "user": "Goatosm",
+  "uid": 8578206
+},
+{
+  "type": "node",
+  "id": 6324239180,
+  "lat": 44.8056216,
+  "lon": 20.4749382,
+  "timestamp": "2019-06-18T19:41:09Z",
+  "version": 3,
+  "changeset": 71378446,
+  "user": "Goatosm",
+  "uid": 8578206
+},
+{
+  "type": "node",
+  "id": 6324239181,
+  "lat": 44.8055434,
+  "lon": 20.4748429,
+  "timestamp": "2019-06-18T19:41:09Z",
+  "version": 2,
+  "changeset": 71378446,
+  "user": "Goatosm",
+  "uid": 8578206,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing_ref": "zebra",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 6324239183,
+  "lat": 44.8043560,
+  "lon": 20.4734765,
+  "timestamp": "2019-03-07T21:53:19Z",
+  "version": 1,
+  "changeset": 67901674,
+  "user": "Copernicus529",
+  "uid": 9319354,
+  "tags": {
+    "traffic_calming": "bump"
+  }
+},
+{
+  "type": "node",
+  "id": 6324239184,
+  "lat": 44.8043690,
+  "lon": 20.4734897,
+  "timestamp": "2019-03-07T21:53:19Z",
+  "version": 1,
+  "changeset": 67901674,
+  "user": "Copernicus529",
+  "uid": 9319354,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing_ref": "zebra",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 6331741969,
+  "lat": 44.8059190,
+  "lon": 20.4784848,
+  "timestamp": "2019-03-11T20:27:38Z",
+  "version": 1,
+  "changeset": 68037159,
+  "user": "daFisch",
+  "uid": 8759590
+},
+{
+  "type": "node",
+  "id": 6335802785,
+  "lat": 44.8052080,
+  "lon": 20.4776745,
+  "timestamp": "2019-03-13T15:46:09Z",
+  "version": 1,
+  "changeset": 68104623,
+  "user": "AnonJason",
+  "uid": 9151615
+},
+{
+  "type": "node",
+  "id": 6336029720,
+  "lat": 44.8061832,
+  "lon": 20.4735133,
+  "timestamp": "2019-03-14T19:48:45Z",
+  "version": 2,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing_ref": "zebra",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 6338432264,
+  "lat": 44.8051348,
+  "lon": 20.4758086,
+  "timestamp": "2019-03-14T19:48:44Z",
+  "version": 1,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590,
+  "tags": {
+    "crossing": "uncontrolled",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 6338432265,
+  "lat": 44.8049854,
+  "lon": 20.4761917,
+  "timestamp": "2019-06-27T11:49:29Z",
+  "version": 2,
+  "changeset": 71669964,
+  "user": "Heliotrope",
+  "uid": 3341588,
+  "tags": {
+    "crossing": "uncontrolled",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 6338432266,
+  "lat": 44.8049831,
+  "lon": 20.4763336,
+  "timestamp": "2019-03-14T19:48:44Z",
+  "version": 1,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590
+},
+{
+  "type": "node",
+  "id": 6338432268,
+  "lat": 44.8056505,
+  "lon": 20.4747716,
+  "timestamp": "2019-03-14T19:48:44Z",
+  "version": 1,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 6338432269,
+  "lat": 44.8056041,
+  "lon": 20.4750846,
+  "timestamp": "2019-03-14T19:48:44Z",
+  "version": 1,
+  "changeset": 68149639,
+  "user": "daFisch",
+  "uid": 8759590,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 6409429986,
+  "lat": 44.8055835,
+  "lon": 20.4762904,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409429987,
+  "lat": 44.8055049,
+  "lon": 20.4764703,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409429988,
+  "lat": 44.8056722,
+  "lon": 20.4766156,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409429989,
+  "lat": 44.8057508,
+  "lon": 20.4764357,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409429990,
+  "lat": 44.8054369,
+  "lon": 20.4766622,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409429991,
+  "lat": 44.8053738,
+  "lon": 20.4768075,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409429992,
+  "lat": 44.8055409,
+  "lon": 20.4769519,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409429993,
+  "lat": 44.8056041,
+  "lon": 20.4768066,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409429994,
+  "lat": 44.8057660,
+  "lon": 20.4758629,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409429995,
+  "lat": 44.8056873,
+  "lon": 20.4760428,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409429996,
+  "lat": 44.8058546,
+  "lon": 20.4761881,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409429997,
+  "lat": 44.8059333,
+  "lon": 20.4760082,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409429998,
+  "lat": 44.8059077,
+  "lon": 20.4755320,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409429999,
+  "lat": 44.8058445,
+  "lon": 20.4756773,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409430000,
+  "lat": 44.8060117,
+  "lon": 20.4758217,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6409430001,
+  "lat": 44.8060748,
+  "lon": 20.4756764,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6412582448,
+  "lat": 44.8050148,
+  "lon": 20.4769919,
+  "timestamp": "2019-04-17T19:06:27Z",
+  "version": 1,
+  "changeset": 69321219,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 6548522340,
+  "lat": 44.8056936,
+  "lon": 20.4784212,
+  "timestamp": "2019-06-14T21:52:14Z",
+  "version": 1,
+  "changeset": 71267378,
+  "user": "Goatosm",
+  "uid": 8578206
+},
+{
+  "type": "node",
+  "id": 6813464752,
+  "lat": 44.8044283,
+  "lon": 20.4735584,
+  "timestamp": "2019-09-21T06:58:28Z",
+  "version": 1,
+  "changeset": 74741550,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 7128001677,
+  "lat": 44.8039645,
+  "lon": 20.4793415,
+  "timestamp": "2020-01-13T09:24:38Z",
+  "version": 1,
+  "changeset": 79507546,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 7128001678,
+  "lat": 44.8044983,
+  "lon": 20.4780720,
+  "timestamp": "2020-01-13T09:24:38Z",
+  "version": 1,
+  "changeset": 79507546,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 7140937744,
+  "lat": 44.8077156,
+  "lon": 20.4761497,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 1,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7140937745,
+  "lat": 44.8059280,
+  "lon": 20.4777929,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 1,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7140937746,
+  "lat": 44.8060957,
+  "lon": 20.4778107,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 1,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 7140937747,
+  "lat": 44.8063972,
+  "lon": 20.4776681,
+  "timestamp": "2020-01-18T12:19:28Z",
+  "version": 1,
+  "changeset": 79729321,
+  "user": "Heliotrope",
+  "uid": 3341588
+},
+{
+  "type": "node",
+  "id": 7197457407,
+  "lat": 44.8053025,
+  "lon": 20.4745654,
+  "timestamp": "2020-02-09T13:37:21Z",
+  "version": 1,
+  "changeset": 80751715,
+  "user": "Komadinovic Vanja",
+  "uid": 875800,
+  "tags": {
+    "camera:type": "fixed",
+    "man_made": "surveillance",
+    "surveillance": "public",
+    "surveillance:type": "camera",
+    "surveillance:zone": "traffic"
+  }
+},
+{
+  "type": "node",
+  "id": 7580899247,
+  "lat": 44.8044254,
+  "lon": 20.4782454,
+  "timestamp": "2020-06-02T18:23:03Z",
+  "version": 1,
+  "changeset": 86093134,
+  "user": "Goatosm",
+  "uid": 8578206
+},
+{
+  "type": "node",
+  "id": 7580899254,
+  "lat": 44.8059109,
+  "lon": 20.4783020,
+  "timestamp": "2020-06-02T18:23:03Z",
+  "version": 1,
+  "changeset": 86093134,
+  "user": "Goatosm",
+  "uid": 8578206
+},
+{
+  "type": "node",
+  "id": 7580899256,
+  "lat": 44.8056721,
+  "lon": 20.4786263,
+  "timestamp": "2020-06-02T18:23:03Z",
+  "version": 1,
+  "changeset": 86093134,
+  "user": "Goatosm",
+  "uid": 8578206
+},
+{
+  "type": "node",
+  "id": 7705127500,
+  "lat": 44.8046517,
+  "lon": 20.4778508,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127501,
+  "lat": 44.8045574,
+  "lon": 20.4779316,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127503,
+  "lat": 44.8052203,
+  "lon": 20.4779072,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "tags": {
+    "name": "Вуков споменик",
+    "name:sr": "Вуков споменик",
+    "name:sr-Latn": "Vukov spomenik",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7705127504,
+  "lat": 44.8052798,
+  "lon": 20.4780022,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "tags": {
+    "name": "Вуков споменик",
+    "name:sr": "Вуков споменик",
+    "name:sr-Latn": "Vukov spomenik",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7705127507,
+  "lat": 44.8052912,
+  "lon": 20.4780601,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127510,
+  "lat": 44.8053048,
+  "lon": 20.4774128,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925,
+  "tags": {
+    "name": "Вуков споменик",
+    "name:sr": "Вуков споменик",
+    "name:sr-Latn": "Vukov spomenik",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7705127511,
+  "lat": 44.8052570,
+  "lon": 20.4773651,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127512,
+  "lat": 44.8049439,
+  "lon": 20.4774549,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127513,
+  "lat": 44.8048993,
+  "lon": 20.4774202,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127514,
+  "lat": 44.8048373,
+  "lon": 20.4774094,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127515,
+  "lat": 44.8048018,
+  "lon": 20.4774240,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127516,
+  "lat": 44.8047481,
+  "lon": 20.4774828,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127517,
+  "lat": 44.8047720,
+  "lon": 20.4774501,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127518,
+  "lat": 44.8048687,
+  "lon": 20.4774105,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127519,
+  "lat": 44.8053539,
+  "lon": 20.4773217,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127520,
+  "lat": 44.8053600,
+  "lon": 20.4775733,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127521,
+  "lat": 44.8054842,
+  "lon": 20.4775394,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127522,
+  "lat": 44.8055242,
+  "lon": 20.4776034,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127523,
+  "lat": 44.8055629,
+  "lon": 20.4776673,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127524,
+  "lat": 44.8055219,
+  "lon": 20.4778249,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127525,
+  "lat": 44.8057460,
+  "lon": 20.4782333,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127526,
+  "lat": 44.8054153,
+  "lon": 20.4777433,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127530,
+  "lat": 44.8051563,
+  "lon": 20.4773149,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127531,
+  "lat": 44.8058467,
+  "lon": 20.4784264,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127532,
+  "lat": 44.8058901,
+  "lon": 20.4784716,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127533,
+  "lat": 44.8058348,
+  "lon": 20.4784078,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127534,
+  "lat": 44.8053345,
+  "lon": 20.4776019,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "node",
+  "id": 7705127535,
+  "lat": 44.8054944,
+  "lon": 20.4778595,
+  "timestamp": "2020-07-11T15:04:53Z",
+  "version": 1,
+  "changeset": 87856325,
+  "user": "Aleksa Marinski",
+  "uid": 6225925
+},
+{
+  "type": "way",
+  "id": 393652640,
+  "timestamp": "2019-04-16T14:13:19Z",
+  "version": 8,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588,
+  "nodes": [
+    3968643008,
+    3968643009,
+    3968643010,
+    3968643011,
+    3968643012,
+    4321343881,
+    3968643014,
+    3968643015,
+    3968643016,
+    3968643017,
+    3968643018,
+    3968643019,
+    3968643020,
+    3968643021,
+    3968643022,
+    3968643023,
+    4321343880,
+    4321343879,
+    4321343878,
+    4321343877,
+    4321343876,
+    4321343875,
+    4321343874,
+    4321343873,
+    4321343872,
+    4321343871,
+    4321343870,
+    4321343869,
+    3968643008
+  ]
+},
+{
+  "type": "way",
+  "id": 684173282,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588,
+  "nodes": [
+    6409429989,
+    6409429988,
+    6409429987,
+    6409429986,
+    6409429989
+  ]
+},
+{
+  "type": "way",
+  "id": 684173283,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588,
+  "nodes": [
+    6409429993,
+    6409429992,
+    6409429991,
+    6409429990,
+    6409429993
+  ]
+},
+{
+  "type": "way",
+  "id": 684173284,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588,
+  "nodes": [
+    6409429997,
+    6409429996,
+    6409429995,
+    6409429994,
+    6409429997
+  ]
+},
+{
+  "type": "way",
+  "id": 684173285,
+  "timestamp": "2019-04-16T14:13:18Z",
+  "version": 1,
+  "changeset": 69273536,
+  "user": "Heliotrope",
+  "uid": 3341588,
+  "nodes": [
+    6409430001,
+    6409430000,
+    6409429999,
+    6409429998,
+    6409430001
+  ]
+}
+
+  ]
+}
