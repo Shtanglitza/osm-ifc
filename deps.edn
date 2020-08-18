@@ -4,6 +4,6 @@
         org.clojure/data.json {:mvn/version "1.0.0"}
         org.osgeo/proj4j {:mvn/version "0.1.0"}
         shtanglitza/ifc-tools-clj {:git/url "https://github.com/Shtanglitza/ifc-tools-clj"
-                                   :sha "d9f99e80468b9de4bcaafde1d693a7a96a498929"}
+                                   :sha "87718c2883852293e215d5b9ed47f900f5b95248"}
         metosin/malli {:git/url "https://github.com/metosin/malli"
                        :sha "22df982f3428b4ee2b0f7ca72e9885edc318728c"}}}
