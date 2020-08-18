@@ -14,9 +14,13 @@
                  [clj-http "3.10.1"]
                  [org.clojure/data.json "1.0.0"]
                  [org.osgeo/proj4j "0.1.0"]
-                 
+
                  [ifc-tools-clj/ifc-tools-clj "0.1.0-SNAPSHOT"]]
-  :plugins [[s3-wagon-private "1.3.4"]]
-  :repositories [["shtanglitza" {:url "s3p://shtanglitza/clojure"
+  :plugins [[reifyhealth/lein-git-down "0.3.7"]
+            [s3-wagon-private "1.3.4"]]
+  :middleware [lein-git-down.plugin/inject-properties]
+  :repositories [["public-github" {:url "git://github.com"}]
+                 ["shtanglitza" {:url "s3p://shtanglitza/clojure"
                                  :username :env/AWS_ACCESS_KEY_ID
-                                 :passphrase :env/AWS_SECRET_ACCESS_KEY}]])
+                                 :passphrase :env/AWS_SECRET_ACCESS_KEY}]]
+  :git-down {ifc-tools-clj {:coordinates shtanglitza/ifc-tools-clj}})
